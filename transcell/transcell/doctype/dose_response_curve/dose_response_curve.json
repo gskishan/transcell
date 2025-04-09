@@ -1,0 +1,96 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "CAl-.#####",
+ "creation": "2025-04-09 20:44:10.324842",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "title",
+  "raw_data",
+  "background_correct",
+  "normalize",
+  "x50",
+  "equation",
+  "plot",
+  "output_view"
+ ],
+ "fields": [
+  {
+   "fieldname": "title",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Title"
+  },
+  {
+   "description": "Paste two-column data (Concentration, Response) from Excel.",
+   "fieldname": "raw_data",
+   "fieldtype": "Long Text",
+   "in_list_view": 1,
+   "label": "Excel Data Input",
+   "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "background_correct",
+   "fieldtype": "Check",
+   "label": "Background Correct?"
+  },
+  {
+   "default": "0",
+   "fieldname": "normalize",
+   "fieldtype": "Check",
+   "label": "Normalize?"
+  },
+  {
+   "fieldname": "x50",
+   "fieldtype": "Float",
+   "label": "X50 Value",
+   "read_only": 1
+  },
+  {
+   "fieldname": "equation",
+   "fieldtype": "Text Editor",
+   "label": "Fitted Equation",
+   "read_only": 1
+  },
+  {
+   "fieldname": "plot",
+   "fieldtype": "Attach Image",
+   "label": "Plot Image",
+   "read_only": 1
+  },
+  {
+   "fieldname": "output_view",
+   "fieldtype": "HTML",
+   "label": "Output Viewer"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-04-09 21:06:36.013924",
+ "modified_by": "admin@gmail.com",
+ "module": "Transcell",
+ "name": "Dose Response Curve",
+ "naming_rule": "Expression (old style)",
+ "owner": "admin@gmail.com",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
