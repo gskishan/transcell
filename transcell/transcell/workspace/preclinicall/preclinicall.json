@@ -1,0 +1,94 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"cO1ZQuntSM\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Preclinicall</span>\",\"col\":12}},{\"id\":\"Cnol2wmWUq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Transcriptome analysis\",\"col\":3}},{\"id\":\"Uw8Wcqn3MF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"NeurASSURE\",\"col\":3}},{\"id\":\"4-R94exxZO\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Latency assay\",\"col\":3}},{\"id\":\"3hzr4sgOx9\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Plaque assay\",\"col\":3}},{\"id\":\"or7oeVtdAN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Passaging and gene expression\",\"col\":3}},{\"id\":\"jYcfGeohkq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Immunogenicity\",\"col\":3}},{\"id\":\"N8mYGUaX4T\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Antigenicity\",\"col\":3}},{\"id\":\"yy_XNHa1Dm\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Epitope mapping and screening\",\"col\":3}}]",
+ "creation": "2025-05-21 22:54:57.083910",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "Administrator",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "indicator_color": "purple",
+ "is_hidden": 0,
+ "label": "Preclinicall",
+ "links": [],
+ "modified": "2025-05-27 22:18:31.612703",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Preclinicall",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "Antisera",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 7.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Transcriptome analysis",
+   "link_to": "Transcriptome analysis",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "NeurASSURE",
+   "link_to": "NeurASSURE",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Latency assay",
+   "link_to": "Latency assay",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Plaque assay",
+   "link_to": "Plaque assay",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Passaging and gene expression",
+   "link_to": "Passaging and gene expression",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Immunogenicity",
+   "link_to": "Immunogenicity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Antigenicity",
+   "link_to": "Antigenicity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Epitope mapping and screening",
+   "link_to": "Epitope mapping and screening",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Preclinicall"
+}

@@ -1,0 +1,45 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-05-10 02:01:14.549169",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "assay"
+ ],
+ "fields": [
+  {
+   "fieldname": "assay",
+   "fieldtype": "Select",
+   "label": "Assay",
+   "options": "\nIIRG\nAIRG\nLDH\nMitochondrial toxicity\nSub-population score\nHypersensitivity assay\nAssessment of Inflammation\nMyelotoxicity assessment\nImmunogenicity\nADCC\nCDC\nOff target activity\nGenotoxicity\nTranscriptomics"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-05-10 02:02:14.609872",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "ImmunoGEN",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

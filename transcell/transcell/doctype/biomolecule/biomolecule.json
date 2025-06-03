@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-05-26 19:54:27.335512",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "material_information",
+  "molecular_structure",
+  "batch_number",
+  "expiry_date",
+  "associated_assays",
+  "inventory_item"
+ ],
+ "fields": [
+  {
+   "fieldname": "material_information",
+   "fieldtype": "Data",
+   "label": "Material Information"
+  },
+  {
+   "fieldname": "molecular_structure",
+   "fieldtype": "Data",
+   "label": "Molecular Structure"
+  },
+  {
+   "fieldname": "batch_number",
+   "fieldtype": "Data",
+   "label": "Batch Number"
+  },
+  {
+   "fieldname": "expiry_date",
+   "fieldtype": "Date",
+   "label": "Expiry Date"
+  },
+  {
+   "fieldname": "associated_assays",
+   "fieldtype": "Data",
+   "label": "Associated Assays"
+  },
+  {
+   "fieldname": "inventory_item",
+   "fieldtype": "Link",
+   "label": "Inventory Item",
+   "options": "Item"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-05-26 19:55:49.103484",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Biomolecule",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

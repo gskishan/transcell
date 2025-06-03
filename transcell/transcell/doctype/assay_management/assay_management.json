@@ -1,0 +1,97 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "prompt",
+ "creation": "2025-05-05 12:07:58.000974",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_gzm0",
+  "amended_from",
+  "name1",
+  "stage_of_testing",
+  "biomolecule",
+  "category",
+  "module_involved",
+  "assay"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_gzm0",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Assay Management",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "name1",
+   "fieldtype": "Data",
+   "label": "Name"
+  },
+  {
+   "fieldname": "stage_of_testing",
+   "fieldtype": "Select",
+   "label": "Stage of Testing",
+   "options": "\nBatch Testing\nPreclinical"
+  },
+  {
+   "fieldname": "biomolecule",
+   "fieldtype": "Link",
+   "label": "Biomolecule",
+   "options": "Biomolecule"
+  },
+  {
+   "fieldname": "category",
+   "fieldtype": "Select",
+   "label": "Category",
+   "options": "\nEfficacy\nSafety"
+  },
+  {
+   "fieldname": "module_involved",
+   "fieldtype": "Select",
+   "label": "Module Involved"
+  },
+  {
+   "fieldname": "assay",
+   "fieldtype": "Link",
+   "label": "Assay",
+   "options": "Residual Toxicity Assay"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2025-05-08 15:36:42.486061",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Assay Management",
+ "naming_rule": "Set by user",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

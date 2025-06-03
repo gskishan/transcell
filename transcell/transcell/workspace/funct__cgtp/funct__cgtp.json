@@ -1,0 +1,85 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"R1nQLjPMke\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">FUNCT--CGTP</span>\",\"col\":12}},{\"id\":\"eVk3cJx48r\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"On target activity\",\"col\":3}},{\"id\":\"S8PHaReidL\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Off target activity\",\"col\":3}},{\"id\":\"_30MkRb-Vh\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"TAA expression analysis\",\"col\":3}},{\"id\":\"k1jIbUnkLG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Therapeutic dose determination\",\"col\":3}},{\"id\":\"TIgmbXdRfx\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Cytokine profiling\",\"col\":3}},{\"id\":\"efC-S2Mf1J\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"DEG profile\",\"col\":3}},{\"id\":\"xKN8lYgV_7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Transcription\",\"col\":3}}]",
+ "creation": "2025-05-21 23:42:59.381884",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "Administrator",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "FUNCT--CGTP",
+ "links": [],
+ "modified": "2025-05-27 22:16:54.113736",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "FUNCT--CGTP",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "CGTP",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 15.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "On target activity",
+   "link_to": "On target activity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Off target activity",
+   "link_to": "Off target activity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "TAA expression analysis",
+   "link_to": "TAA expression analysis",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Therapeutic dose determination",
+   "link_to": "Therapeutic dose determination",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Cytokine profiling",
+   "link_to": "Cytokine profiling",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "DEG profile",
+   "link_to": "DEG profile",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Transcription",
+   "link_to": "Transcription",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "FUNCT--CGTP"
+}

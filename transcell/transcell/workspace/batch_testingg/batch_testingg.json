@@ -1,0 +1,38 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"NX2QP86CyX\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Batch-Testingg</span>\",\"col\":12}},{\"id\":\"snptl5efsI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Immunogenicity\",\"col\":3}}]",
+ "creation": "2025-05-21 22:55:25.015332",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "Administrator",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "indicator_color": "purple",
+ "is_hidden": 0,
+ "label": "Batch-Testingg",
+ "links": [],
+ "modified": "2025-05-27 22:17:51.657429",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Batch-Testingg",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "Antisera",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 8.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Immunogenicity",
+   "link_to": "Immunogenicity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Batch-Testingg"
+}

@@ -1,0 +1,35 @@
+{
+ "doctype": "DocType",
+ "name": "X50 Regression Entry",
+ "module": "Transcell",
+ "custom": 1,
+ "is_child_table": 1,
+ "istable": 1,
+ "editable_grid": 1,
+ "track_changes": 0,
+ "track_seen": 0,
+ "in_create": 1,
+ "fields": [
+  {
+   "fieldname": "x",
+   "fieldtype": "Float",
+   "label": "X",
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "y",
+   "fieldtype": "Float",
+   "label": "Y",
+   "in_list_view": 1
+  }
+ ],
+ "permissions": [
+  {
+   "role": "System Manager",
+   "read": 1,
+   "write": 1,
+   "create": 1,
+   "delete": 1
+  }
+ ]
+}

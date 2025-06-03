@@ -1,0 +1,45 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-05-10 02:07:03.953178",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "assay"
+ ],
+ "fields": [
+  {
+   "fieldname": "assay",
+   "fieldtype": "Select",
+   "label": "Assay",
+   "options": "\nStability\nSterility\nHem Adsorbing Virus\nBovine Virus\nPorcine Virus\nRetro Virus\nTumorigenicity\nOncogenicity\nGeneral Safety Test\nTotal Module"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-06-03 12:46:50.131051",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "BioSAFE",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

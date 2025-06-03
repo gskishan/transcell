@@ -1,0 +1,142 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"6PlEkUJlmR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Drug Discovery</span>\",\"col\":12}},{\"id\":\"iKdeDIFQ8J\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"ImmunoGEN\",\"col\":3}},{\"id\":\"weFwhGIIOw\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"CardioSIGHT\",\"col\":3}},{\"id\":\"K5kzb1a20P\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"HepatoSIGHT\",\"col\":3}},{\"id\":\"R3HjmCL1Iq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"SkinIR\",\"col\":3}},{\"id\":\"nQ8Glp8ouw\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"NephroTOX\",\"col\":3}},{\"id\":\"N1Rrq2Eb7Z\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"CarcinogenSAFE\",\"col\":3}},{\"id\":\"mFZSGMslaP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"NeurASSURE\",\"col\":3}},{\"id\":\"MDCtHU_0wD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"MyoTOX\",\"col\":3}},{\"id\":\"TTJrY1Bwya\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BioSAFE\",\"col\":3}},{\"id\":\"Om2shEhTcV\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"PD-BioM\",\"col\":3}},{\"id\":\"a0AlBSmOfB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"PoTENCY\",\"col\":3}},{\"id\":\"nO0y3X9vkS\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"SpheroiD\",\"col\":3}},{\"id\":\"1rEfTpmQwY\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"TransD\",\"col\":3}},{\"id\":\"wbsOT5nKTI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"FUNCT-CGTP\",\"col\":3}}]",
+ "creation": "2025-05-08 15:14:47.870550",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "Administrator",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "indicator_color": "orange",
+ "is_hidden": 0,
+ "label": "Small Molecules",
+ "links": [],
+ "modified": "2025-05-27 22:21:58.689644",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Small Molecules",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 12.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "ImmunoGEN",
+   "link_to": "ImmunoGEN",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "BioSAFE",
+   "link_to": "BioSAFE",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "CardioSIGHT",
+   "link_to": "CardioSIGHT",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "PD-BioM",
+   "link_to": "PD-BioM",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "HepatoSIGHT",
+   "link_to": "HepatoSIGHT",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "PoTENCY",
+   "link_to": "poTENCY",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "SkinIR",
+   "link_to": "SkinIR",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "SpheroiD",
+   "link_to": "SpheroID",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "NephroTOX",
+   "link_to": "NephroTOX",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "TransD",
+   "link_to": "TransD",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "CarcinogenSAFE",
+   "link_to": "CarcinogenSAFE",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "FUNCT-CGTP",
+   "link_to": "FUNCT-CGTP",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "NeurASSURE",
+   "link_to": "NeurASSURE",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "MyoTOX",
+   "link_to": "MyoTOX",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Small Molecules"
+}

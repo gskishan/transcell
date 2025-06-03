@@ -6,14 +6,39 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
+  "name_of_the_organization",
+  "start_date_and_time",
+  "end_date_and_time",
+  "test_agent_code",
+  "sample_details",
+  "designation",
+  "signature",
+  "assay_name",
+  "figure_legend",
+  "column_break_pf84",
+  "analysis_data",
+  "batch_no_of_hmps",
+  "test_data",
+  "hmps_details",
+  "sample_id",
+  "test_description",
+  "inference",
+  "therapeutic",
+  "remarks",
+  "cellular_infiltration",
+  "section_break_ai1a",
   "title",
   "raw_data",
   "background_correct",
   "normalize",
   "x50",
   "equation",
+  "attachment",
   "plot",
-  "output_view"
+  "output_view",
+  "x50_regression_entry",
+  "references_tab",
+  "transcription"
  ],
  "fields": [
   {
@@ -64,13 +89,142 @@
    "fieldname": "output_view",
    "fieldtype": "HTML",
    "label": "Output Viewer"
+  },
+  {
+   "fieldname": "x50_regression_entry",
+   "fieldtype": "Table",
+   "label": "X50 Regression Entry",
+   "options": "X50 Regression Entry"
+  },
+  {
+   "fieldname": "attachment",
+   "fieldtype": "Attach",
+   "label": "Attachment"
+  },
+  {
+   "fieldname": "name_of_the_organization",
+   "fieldtype": "Data",
+   "label": "Name of the Organization"
+  },
+  {
+   "fieldname": "sample_details",
+   "fieldtype": "Data",
+   "label": "Sample D"
+  },
+  {
+   "fieldname": "test_agent_code",
+   "fieldtype": "Data",
+   "label": "Test Agent Code"
+  },
+  {
+   "fieldname": "sample_id",
+   "fieldtype": "Data",
+   "label": "Sample ID"
+  },
+  {
+   "fieldname": "hmps_details",
+   "fieldtype": "Data",
+   "label": "HMPS Details"
+  },
+  {
+   "default": "Today",
+   "fieldname": "test_data",
+   "fieldtype": "Date",
+   "label": "Test Date"
+  },
+  {
+   "fieldname": "batch_no_of_hmps",
+   "fieldtype": "Data",
+   "label": "Batch No of HMPS"
+  },
+  {
+   "default": "Today",
+   "fieldname": "analysis_data",
+   "fieldtype": "Date",
+   "label": "Analysis Date"
+  },
+  {
+   "fieldname": "signature",
+   "fieldtype": "Data",
+   "label": "Signature"
+  },
+  {
+   "default": "CSO",
+   "fieldname": "designation",
+   "fieldtype": "Data",
+   "label": "Designation"
+  },
+  {
+   "fieldname": "column_break_pf84",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_ai1a",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "start_date_and_time",
+   "fieldtype": "Datetime",
+   "label": "Start Date And Time"
+  },
+  {
+   "fieldname": "end_date_and_time",
+   "fieldtype": "Datetime",
+   "label": "End Date And Time"
+  },
+  {
+   "fieldname": "test_description",
+   "fieldtype": "Long Text",
+   "label": "Test Description"
+  },
+  {
+   "fieldname": "assay_name",
+   "fieldtype": "Data",
+   "label": "Assay Name"
+  },
+  {
+   "fieldname": "references_tab",
+   "fieldtype": "Tab Break",
+   "label": "References"
+  },
+  {
+   "fieldname": "transcription",
+   "fieldtype": "Link",
+   "label": "Transcription",
+   "options": "Transcription",
+   "read_only": 1
+  },
+  {
+   "fieldname": "inference",
+   "fieldtype": "Data",
+   "label": "Inference"
+  },
+  {
+   "fieldname": "therapeutic",
+   "fieldtype": "Data",
+   "label": "Therapeutic Conc  of TA"
+  },
+  {
+   "fieldname": "cellular_infiltration",
+   "fieldtype": "Data",
+   "label": "Cellular infiltration"
+  },
+  {
+   "fieldname": "figure_legend",
+   "fieldtype": "Text Editor",
+   "label": "Figure Legend"
+  },
+  {
+   "fieldname": "remarks",
+   "fieldtype": "Text Editor",
+   "label": "Remarks"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-04-09 21:06:36.013924",
- "modified_by": "admin@gmail.com",
+ "modified": "2025-06-03 20:17:02.430217",
+ "modified_by": "Administrator",
  "module": "Transcell",
  "name": "Dose Response Curve",
  "naming_rule": "Expression (old style)",
@@ -92,5 +246,8 @@
  "row_format": "Dynamic",
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "track_changes": 1,
+ "track_seen": 1,
+ "track_views": 1
 }

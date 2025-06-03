@@ -1,0 +1,59 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-05-10 01:51:33.986708",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "category",
+  "module_involved",
+  "assay"
+ ],
+ "fields": [
+  {
+   "fieldname": "category",
+   "fieldtype": "Select",
+   "label": "Category",
+   "options": "\nEfficacy"
+  },
+  {
+   "fieldname": "module_involved",
+   "fieldtype": "Select",
+   "label": "Module involved",
+   "options": "\nImmunogenity"
+  },
+  {
+   "fieldname": "assay",
+   "fieldtype": "Select",
+   "label": "Assay",
+   "options": "\nPlasma cell enumeration\nWestern blot\nELISA\nReport"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-05-10 01:53:41.203492",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Batch testing",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

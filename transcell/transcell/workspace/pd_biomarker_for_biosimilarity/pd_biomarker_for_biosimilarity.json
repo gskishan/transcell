@@ -1,0 +1,125 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"pCalo6-bQ9\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">PD Biomarker for biosimilarity</span>\",\"col\":12}},{\"id\":\"7tY9agxF8L\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"IIRG\",\"col\":3}},{\"id\":\"4PbLcLKBIq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"AIRG\",\"col\":3}},{\"id\":\"ASsqQDcjga\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"LDH\",\"col\":3}},{\"id\":\"AjhPzVFU9F\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Mitochondrial toxicity\",\"col\":3}},{\"id\":\"wOVdFUYUnJ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Hypersensitivity assay\",\"col\":3}},{\"id\":\"CixcEtpfNs\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Assessment of Inflammation\",\"col\":3}},{\"id\":\"dDmYSuOW8Q\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Myelotoxicity assessment\",\"col\":3}},{\"id\":\"OsXpKaXE37\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Immunogenicity\",\"col\":3}},{\"id\":\"FRm9pelzyv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"ADCC\",\"col\":3}},{\"id\":\"2H665GMgsI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"CDC\",\"col\":3}},{\"id\":\"pHsaTwrCiu\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Off target activity\",\"col\":3}},{\"id\":\"480hhv2gJF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Genotoxicity\",\"col\":3}}]",
+ "creation": "2025-05-21 23:03:30.857329",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "Administrator",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "PD Biomarker for biosimilarity",
+ "links": [],
+ "modified": "2025-05-27 22:22:31.653747",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "PD Biomarker for biosimilarity",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "BS/BT",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 4.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "IIRG",
+   "link_to": "IIRG",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "AIRG",
+   "link_to": "AIRG",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "LDH",
+   "link_to": "LDH",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Mitochondrial toxicity",
+   "link_to": "Mitochondrial toxicity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Hypersensitivity assay",
+   "link_to": "Hypersensitivity assay",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Assessment of Inflammation",
+   "link_to": "Assessment of Inflammation",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Myelotoxicity assessment",
+   "link_to": "Myelotoxicity assessment",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Immunogenicity",
+   "link_to": "Immunogenicity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "ADCC",
+   "link_to": "ADCC",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "CDC",
+   "link_to": "CDC",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Off target activity",
+   "link_to": "Off target activity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Genotoxicity",
+   "link_to": "Genotoxicity",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "PD Biomarker for biosimilarity"
+}

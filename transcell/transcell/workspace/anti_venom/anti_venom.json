@@ -1,0 +1,38 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"7lIVFw7KXx\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Anti-venom</span>\",\"col\":12}},{\"id\":\"YZsgXH2-CM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"ED50:POTENCY\",\"col\":3}}]",
+ "creation": "2025-05-08 15:14:19.972799",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "Administrator",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "indicator_color": "red",
+ "is_hidden": 0,
+ "label": "Anti-venom",
+ "links": [],
+ "modified": "2025-05-27 22:18:50.596177",
+ "modified_by": "Administrator",
+ "module": "Transcell",
+ "name": "Anti-venom",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 10.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "ED50:POTENCY",
+   "link_to": "poTENCY",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Anti-venom"
+}
